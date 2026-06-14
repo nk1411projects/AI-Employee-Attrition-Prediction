@@ -12,9 +12,6 @@ Screenshots:
 
 <img width="850" alt="Screenshot 2026-06-14 143052" src="https://github.com/user-attachments/assets/51c8ed8b-828c-4553-90bd-41035f3b1a7f" />
 
-
-<img width="850" alt="Screenshot 2026-06-14 142934" src="https://github.com/user-attachments/assets/33336560-17bb-48f9-bc25-e66f14aeb8ba" />
-
 <img width="850" alt="Screenshot 2026-06-14 142946" src="https://github.com/user-attachments/assets/191202cb-7274-443a-85e0-d1084e843ce3" />
 
 
