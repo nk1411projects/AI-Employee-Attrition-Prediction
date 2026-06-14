@@ -4,6 +4,19 @@ Live Demo:
 
 https://ai-attrition-prediction.streamlit.app
 
+Screenshots:
+<img width="1901" height="796" alt="Screenshot 2026-06-14 142539" src="https://github.com/user-attachments/assets/34ea585e-b83f-47e3-9917-4fbd375e693f" />
+
+<img width="1877" height="847" alt="Screenshot 2026-06-14 142511" src="https://github.com/user-attachments/assets/47d03850-d1a6-4eb2-9889-a9d5a4d70620" />
+
+<img width="1903" height="1062" alt="Screenshot 2026-06-14 143052" src="https://github.com/user-attachments/assets/9f70b10c-03b1-4eee-ae39-7bbdbf9222d8" />
+
+<img width="1894" height="883" alt="Screenshot 2026-06-14 143041" src="https://github.com/user-attachments/assets/ad528a11-fa0c-47be-a58b-6c676b517f3a" />
+
+<img width="1903" height="984" alt="Screenshot 2026-06-14 142946" src="https://github.com/user-attachments/assets/9be8dbdb-043d-4a20-80f9-477eafa14402" />
+
+<img width="1903" height="1018" alt="Screenshot 2026-06-14 142934" src="https://github.com/user-attachments/assets/d5185d2b-1d9c-4830-9824-53adf5e8efdd" />
+
 ## Overview
 
 Employee attrition is a major challenge for organizations as it leads to increased recruitment costs, loss of productivity, and disruption of business operations.
