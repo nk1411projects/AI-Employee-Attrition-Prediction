@@ -5,17 +5,17 @@ Live Demo:
 https://ai-attrition-prediction.streamlit.app
 
 Screenshots:
-<img width="900" height="600" alt="Screenshot 2026-06-14 142539" src="https://github.com/user-attachments/assets/34ea585e-b83f-47e3-9917-4fbd375e693f" />
 
-<img width="900" height="600" alt="Screenshot 2026-06-14 142511" src="https://github.com/user-attachments/assets/47d03850-d1a6-4eb2-9889-a9d5a4d70620" />
+<img width="850" height="796" alt="Screenshot 2026-06-14 142539" src="https://github.com/user-attachments/assets/9c5d56c2-d377-4c12-b61f-3b3973434242" />
 
-<img width="900" height="600" alt="Screenshot 2026-06-14 143052" src="https://github.com/user-attachments/assets/9f70b10c-03b1-4eee-ae39-7bbdbf9222d8" />
+<img width="850" height="847" alt="Screenshot 2026-06-14 142511" src="https://github.com/user-attachments/assets/67faff17-a151-43b4-90ca-743f7af45f14" />
 
-<img width="900" height="600" alt="Screenshot 2026-06-14 143041" src="https://github.com/user-attachments/assets/ad528a11-fa0c-47be-a58b-6c676b517f3a" />
+<img width="850" height="883" alt="Screenshot 2026-06-14 143041" src="https://github.com/user-attachments/assets/127fe0ca-a0a4-48fa-8be9-6d16848bfbc5" />
 
-<img width="900" height="600" alt="Screenshot 2026-06-14 142946" src="https://github.com/user-attachments/assets/9be8dbdb-043d-4a20-80f9-477eafa14402" />
+<img width="850" height="984" alt="Screenshot 2026-06-14 142946" src="https://github.com/user-attachments/assets/191202cb-7274-443a-85e0-d1084e843ce3" />
 
-<img width="900" height="600" alt="Screenshot 2026-06-14 142934" src="https://github.com/user-attachments/assets/d5185d2b-1d9c-4830-9824-53adf5e8efdd" />
+<img width="850" height="1018" alt="Screenshot 2026-06-14 142934" src="https://github.com/user-attachments/assets/33336560-17bb-48f9-bc25-e66f14aeb8ba" />
+
 
 ## Overview
 
