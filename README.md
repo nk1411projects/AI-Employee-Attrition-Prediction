@@ -6,15 +6,15 @@ https://ai-attrition-prediction.streamlit.app
 
 Screenshots:
 
-<img width="850" height="796" alt="Screenshot 2026-06-14 142539" src="https://github.com/user-attachments/assets/9c5d56c2-d377-4c12-b61f-3b3973434242" />
+<img width="850" alt="Screenshot 2026-06-14 142539" src="https://github.com/user-attachments/assets/9c5d56c2-d377-4c12-b61f-3b3973434242" />
 
-<img width="850" height="847" alt="Screenshot 2026-06-14 142511" src="https://github.com/user-attachments/assets/67faff17-a151-43b4-90ca-743f7af45f14" />
+<img width="850" alt="Screenshot 2026-06-14 142511" src="https://github.com/user-attachments/assets/67faff17-a151-43b4-90ca-743f7af45f14" />
 
-<img width="850" height="883" alt="Screenshot 2026-06-14 143041" src="https://github.com/user-attachments/assets/127fe0ca-a0a4-48fa-8be9-6d16848bfbc5" />
+<img width="850" alt="Screenshot 2026-06-14 143041" src="https://github.com/user-attachments/assets/127fe0ca-a0a4-48fa-8be9-6d16848bfbc5" />
 
-<img width="850" height="984" alt="Screenshot 2026-06-14 142946" src="https://github.com/user-attachments/assets/191202cb-7274-443a-85e0-d1084e843ce3" />
+<img width="850" alt="Screenshot 2026-06-14 142946" src="https://github.com/user-attachments/assets/191202cb-7274-443a-85e0-d1084e843ce3" />
 
-<img width="850" height="1018" alt="Screenshot 2026-06-14 142934" src="https://github.com/user-attachments/assets/33336560-17bb-48f9-bc25-e66f14aeb8ba" />
+<img width="850" alt="Screenshot 2026-06-14 142934" src="https://github.com/user-attachments/assets/33336560-17bb-48f9-bc25-e66f14aeb8ba" />
 
 
 ## Overview
